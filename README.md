@@ -23,4 +23,9 @@
 这年头找份入门的好的源码不容易！！！
 
 
+MONGODB 安装参考这个
+
+http://www.51testing.com/html/28/116228-236702.html
+
+
 
