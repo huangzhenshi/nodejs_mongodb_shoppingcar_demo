@@ -28,4 +28,7 @@ MONGODB 安装参考这个
 http://www.51testing.com/html/28/116228-236702.html
 
 
+MONGODB 在 nodejs里面的使用
+
+http://cnodejs.org/topic/504b4924e2b84515770103dd
 
